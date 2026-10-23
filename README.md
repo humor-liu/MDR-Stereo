@@ -93,4 +93,4 @@ python train_stereo.py
 
 # Acknowledgements
 
-The project is based on [IGEV-Stereo](https://github.com/gangweix/IGEV) and [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2) and we sincerely acknowledge their authors for opensourcing the excellent work. Besides, we would like to thank the CVPR reviewers and AC for their valuable feedback and recognition of our work.
+The project is based on [IGEV-Stereo](https://github.com/gangweix/IGEV) and [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2) and we sincerely acknowledge their authors for opensourcing the excellent work. Besides, We sincerely thank the reviewers and the editorial team who will handle our work, and we look forward to receiving their valuable feedback.
